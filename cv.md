@@ -19,8 +19,7 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSH
 * **Virtualization:** VMware Workstation, VirtualBox
 * **Methodologies:** Agile
-* **Other:** Cross-Browser Compatibility, Debugging
-
+* **Other:** Cross-Browser Compatibility, Debugging  
 
 ## Code Example
 
