@@ -51,5 +51,5 @@ console.log(expensiveProducts);
 * Applied Markdown formatting, links, lists, tables, and code blocks
 * Published the project on GitHub 
 
-[*Source Code:*](https://github.com/nastia-gitignore/rsschool-cv)  
-[*Live Demo:*](https://nastia-gitignore.github.io/rsschool-cv/cv)
+[*Source Code*](https://github.com/nastia-gitignore/rsschool-cv/tree/gh-pages)  
+[*Live Demo*](https://nastia-gitignore.github.io/rsschool-cv/cv)
