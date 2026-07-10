@@ -58,7 +58,7 @@ console.log(expensiveProducts);
 ## Education
 ### Belarusian State University of Informatics and Radioelectronics (BSUIR)
 *Bachelor's Degree in Infocommunication Technologies (Infocommunication Networks)*  
-2021 – 2025
+2021 – 2025  
   
 Relevant coursework:
 * Computer Networks
