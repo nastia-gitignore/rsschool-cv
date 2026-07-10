@@ -36,15 +36,15 @@ const expensiveProducts = products
 console.log(expensiveProducts);
 ```
 ## Experience and Projects
-### System Administrator
-*Kommunarka JSC | 2025 - Present*  
+**System Administrator**  
+*Kommunarka JSC | 2025 - Present*
 * Provided technical support for 500+ users in a corporate environment
 * Configured and maintained Windows workstations, printers, and enterprise software
 * Diagnosed and resolved hardware, software, and network issues
 * Worked with Bitrix24, Kaspersky Security Center, VMware, and Active Directory
 * Automated routine tasks and improved internal technical processes
 
-### Markdown CV
+**Markdown CV**  
 *Technologies:* Markdown, Git, GitHub
 * Created a structured CV using Markdown syntax
 * Applied Markdown formatting, links, lists, tables, and code blocks
