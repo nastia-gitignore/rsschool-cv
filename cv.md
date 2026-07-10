@@ -20,3 +20,15 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Virtualization:** VMware Workstation, VirtualBox
 * **Methodologies:** Agile
 * **Other:** Cross-Browser Compatibility, Debugging
+## Code Example
+```const products = [
+  { name: "Laptop", price: 1200 },
+  { name: "Mouse", price: 30 },
+  { name: "Keyboard", price: 80 }
+];
+
+const expensiveProducts = products
+  .filter(product => product.price > 50)
+  .map(product => product.name);
+
+console.log(expensiveProducts);```
