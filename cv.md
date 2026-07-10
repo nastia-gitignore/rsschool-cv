@@ -31,4 +31,5 @@ const expensiveProducts = products
   .filter(product => product.price > 50)
   .map(product => product.name);
 
-console.log(expensiveProducts);```
+console.log(expensiveProducts);
+```
