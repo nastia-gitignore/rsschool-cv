@@ -9,6 +9,7 @@
 Junior Frontend Developer with a strong technical background in System Administration and a passion for building modern, user-friendly web applications. Experienced in troubleshooting complex technical issues, working with Windows environments, networking, and supporting enterprise infrastructure, which has strengthened my analytical thinking and problem-solving skills.
 
 Currently focused on Frontend development, continuously improving my knowledge of HTML, CSS, JavaScript, TypeScript, React, Git, and modern development practices through personal projects and self-study. I am a fast learner, detail-oriented, and enjoy working in collaborative environments where I can contribute, grow, and deliver high-quality solutions. Seeking an opportunity to start my career as a Frontend Developer and become a valuable member of a professional engineering team.
+
 ## Skills
 * **Programming Languages:** JavaScript (ES6+), HTML5, CSS3, Python
 * **Frontend:** Flexbox, CSS Grid, DOM
@@ -48,8 +49,21 @@ console.log(expensiveProducts);
 **Markdown CV**  
 *Technologies:* Markdown, Git, GitHub
 * Created a structured CV using Markdown syntax
-* Applied Markdown formatting, links, lists, tables, and code blocks
+* Applied Markdown formatting, links, lists, and code blocks
 * Published the project on GitHub 
 
 [*Source Code*](https://github.com/nastia-gitignore/rsschool-cv/tree/gh-pages)  
 [*Live Demo*](https://nastia-gitignore.github.io/rsschool-cv/cv)
+
+## Education
+### Belarusian State University of Informatics and Radioelectronics (BSUIR)
+*Bachelor's Degree in Infocommunication Technologies (Infocommunication Networks)*  
+2021 – 2025  
+Relevant coursework:
+* Computer Networks
+* Operating Systems
+* Programming
+* Database Systems
+* Information Security
+* Machine Learning
+* Network Administration
