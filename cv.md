@@ -21,7 +21,8 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Methodologies:** Agile
 * **Other:** Cross-Browser Compatibility, Debugging
 ## Code Example
-```const products = [
+```
+const products = [
   { name: "Laptop", price: 1200 },
   { name: "Mouse", price: 30 },
   { name: "Keyboard", price: 80 }
