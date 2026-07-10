@@ -20,6 +20,7 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Virtualization:** VMware Workstation, VirtualBox
 * **Methodologies:** Agile
 * **Other:** Cross-Browser Compatibility, Debugging
+
 ## Code Example
 
 ```javascript
