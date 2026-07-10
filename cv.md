@@ -43,6 +43,7 @@ console.log(expensiveProducts);
 * Diagnosed and resolved hardware, software, and network issues
 * Worked with Bitrix24, Kaspersky Security Center, VMware, and Active Directory
 * Automated routine tasks and improved internal technical processes
+
 ### Markdown CV
 *Technologies:* Markdown, Git, GitHub
 * Created a structured CV using Markdown syntax
