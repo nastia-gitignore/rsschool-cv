@@ -21,6 +21,7 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Methodologies:** Agile
 * **Other:** Cross-Browser Compatibility, Debugging
 ## Code Example
+
 ```javascript
 const products = [
   { name: "Laptop", price: 1200 },
