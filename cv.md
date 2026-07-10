@@ -10,3 +10,13 @@ Junior Frontend Developer with a strong technical background in System Administr
 
 Currently focused on Frontend development, continuously improving my knowledge of HTML, CSS, JavaScript, TypeScript, React, Git, and modern development practices through personal projects and self-study. I am a fast learner, detail-oriented, and enjoy working in collaborative environments where I can contribute, grow, and deliver high-quality solutions. Seeking an opportunity to start my career as a Frontend Developer and become a valuable member of a professional engineering team.
 ## Skills
+* **Programming Languages:** JavaScript (ES6+), HTML5, CSS3, Python
+* **Frontend:** Flexbox, CSS Grid, DOM
+* **Styling:** CSS3
+* **Version Control:** Git, GitHub
+* **Development Tools:** Visual Studio Code, Chrome DevTools
+* **Operating Systems:** Windows, Linux (Ubuntu)
+* **Networking:** TCP/IP, DNS, HTTP/HTTPS, SSH
+* **Virtualization:** VMware Workstation, VirtualBox
+* **Methodologies:** Agile
+* **Other:** Cross-Browser Compatibility, Debugging
