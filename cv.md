@@ -1,9 +1,9 @@
 # Anastasiya Pazniak
 ## Junior Frontend Developer
 ## Contact Information
-📞**Phone:** +375 (29) 123-45-67
-📩**E-mail:** pazniak.anastasiya.24@gmail.com
-✈️**Telegram:** @yous3rnam
+📞**Phone:** +375 (29) 123-45-67  
+📩**E-mail:** pazniak.anastasiya.24@gmail.com  
+✈️**Telegram:** @yous3rnam  
 [LinkedIn](www.linkedin.com/in/anastasiya-pazniak-04194b388)
 ## About Myself
 Junior Frontend Developer with a strong technical background in System Administration and a passion for building modern, user-friendly web applications. Experienced in troubleshooting complex technical issues, working with Windows environments, networking, and supporting enterprise infrastructure, which has strengthened my analytical thinking and problem-solving skills.
