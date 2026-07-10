@@ -21,6 +21,7 @@ Currently focused on Frontend development, continuously improving my knowledge o
 * **Methodologies:** Agile
 * **Other:** Cross-Browser Compatibility, Debugging
 
+
 ## Code Example
 
 ```javascript
