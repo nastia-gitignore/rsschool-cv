@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+     margin: 0;
+    background: #F4F2F8;
+}
+
+.page {
+    padding: 40px 20px;
+}
+
+.cv {
+    overflow: hidden;
+    max-width: 850px;
+    margin: 0 auto;
+    background: #F8F7FC;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.left-header {
+    float: left;
+    width: 400px;
+    height: 450px;
+    background: #C4B5FD;
+}
+
+.right-header {
+    float: left;
+    width: 450px;
+    height: 600px;
+    background: #F8F7FC;
+}
