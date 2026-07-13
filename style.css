@@ -15,7 +15,7 @@ body {
     overflow: hidden;
     max-width: 850px;
     margin: 0 auto;
-    background: #F8F7FC;
+    background: #f5f5f5;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
@@ -23,12 +23,12 @@ body {
     float: left;
     width: 400px;
     height: 450px;
-    background: #C4B5FD;
+    background: #676768;
 }
 
 .right-header {
     float: left;
     width: 450px;
     height: 600px;
-    background: #F8F7FC;
+    background: #f5f5f5;
 }
