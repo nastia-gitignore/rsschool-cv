@@ -68,3 +68,9 @@ Relevant coursework:
 * Information Security
 * Machine Learning
 * Network Administration
+
+## Languages
+* **Russian** - Native
+* **Belarusian** - Native
+* **English** - B2 (EnglishPapa Language School, Minsk, 2023)
+* **German** - A2 (ULC Language School, Minsk, 2025-2026)
