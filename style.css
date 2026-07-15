@@ -24,9 +24,10 @@ header {
 }
 
 .left-header {
+    position: relative;
     float: left;
     width: 330px;
-    height: 550px;
+    height: 560px;
     background: #676768;
 }
 
@@ -42,4 +43,10 @@ header {
     left: 100px;
     top: 50px;
     width: 290px;
+}
+
+.contacts {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
 }
