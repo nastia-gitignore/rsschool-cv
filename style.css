@@ -26,27 +26,68 @@ header {
 .left-header {
     position: relative;
     float: left;
-    width: 330px;
+    width: 400px;
     height: 560px;
     background: #676768;
 }
 
 .right-header {
     float: left;
-    width: 520px;
+    width: 400px;
     height: 600px;
     background: #f5f5f5;
+    font-family: "Quicksand", sans-serif;
+    color: #4d4d4d;
 }
 
 .photo {
     position: absolute;
     left: 100px;
-    top: 50px;
-    width: 290px;
+    top: 40px;
+    width: 270px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .contacts {
     position: absolute;
     bottom: 30px;
     left: 30px;
+}
+
+.contact-title {
+    font-family: "Quicksand", sans-serif;
+    display: inline-block;
+    width: 90px;
+    color: #a1a1a1;
+}
+
+.contact-value {
+    display: inline-block;
+    font-family: "Quicksand", sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.4s ease;
+}
+
+.contact-value:hover {
+    color: #000;
+}
+
+.about {
+    margin-left: 50px;
+    text-align: center;
+}
+
+.name {
+    font-weight: 400;
+}
+
+.surname {
+    font-weight: 700;
+}
+
+.position {
+    margin-left: 50px;
+    text-align: center;
 }
