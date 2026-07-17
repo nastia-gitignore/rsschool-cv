@@ -23,7 +23,7 @@ header {
     position: relative;
 }
 
-.left-header {
+.left-column {
     position: relative;
     float: left;
     width: 400px;
@@ -31,7 +31,7 @@ header {
     background: #676768;
 }
 
-.right-header {
+.right-column {
     float: left;
     width: 450px;
     height: 1000px;
